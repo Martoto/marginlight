@@ -1,0 +1,4 @@
+interface:
+  display_name: "Novel Structure Editing"
+  short_description: "Organize novel structure without rewriting prose"
+  default_prompt: "Use $novel-structure-editing to analyze my Markdown novel files into plot points, character arcs, scene notes, continuity questions, and braced placeholders while preserving the original prose."
