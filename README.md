@@ -19,7 +19,7 @@
 
 ## The Marginlight promise
 
-Marginlight helps writers avoid slop. It gives clear structure feedback, checks whether character arcs resolve, and points out what could change and where. The prose and the how stay yours. It reads existing Markdown and preserves voice, imagery, dialogue, events, point of view, tense, chronology, and characterization. Substantive suggestions stay inside clearly labeled braces for you to accept, change, or ignore.
+Marginlight helps writers avoid slop. It gives clear structure feedback, checks whether character arcs resolve, and points out what could change and where. The prose and the how stay yours; Marginlight does not draft replacement prose. It reads existing Markdown and preserves voice, imagery, dialogue, events, point of view, tense, chronology, and characterization. Substantive suggestions stay inside clearly labeled braces for you to accept, change, or ignore.
 
 ## How it works
 
