@@ -1,6 +1,6 @@
 # Novel Structure Editing
 
-`novel-structure-editing` is a preservation-first skill for organizing and developing novel manuscripts without silently rewriting the author’s voice.
+It is a skill to help writers not become sloppers. It doesnt write a single sentence but provides clear structure feedback, looks for arc resolutions and then provides outlines on what can be changed, where and leaves the how up to you.
 
 It reads existing Markdown, extracts the story’s structure, identifies continuity questions, and places suggested additions in visible `{braced placeholders}` for the author to write and expand.
 
