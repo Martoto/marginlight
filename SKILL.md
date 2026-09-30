@@ -1,11 +1,11 @@
 ---
-name: novel-structure-editing
+name: marginlight
 description: Use when a novelist wants existing prose analyzed into plot points, character arcs, scene structure, continuity notes, or author-editable placeholders while preserving the manuscript.
 metadata:
   short-description: Organize and annotate novel manuscripts without rewriting them
 ---
 
-# Novel Structure Editing
+# Marginlight
 
 ## Core contract
 

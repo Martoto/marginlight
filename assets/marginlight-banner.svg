@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Marginlight</title>
+  <desc id="desc">An open book with story notes in the margins, in warm ink and paper colors.</desc>
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f5f0e6"/><stop offset="1" stop-color="#e9dfcf"/></linearGradient>
+  </defs>
+  <rect width="1200" height="360" rx="28" fill="#202c27"/>
+  <circle cx="1000" cy="65" r="180" fill="#b99056" opacity=".09"/>
+  <circle cx="1040" cy="300" r="120" fill="#d8bd91" opacity=".06"/>
+  <g transform="translate(760 65)" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M30 26c53-20 111-12 157 19v190c-46-30-104-38-157-18z" fill="url(#paper)" stroke="#d8c8ae" stroke-width="3"/>
+    <path d="M187 45c45-31 104-39 157-19v191c-53-20-112-12-157 18z" fill="#eee5d7" stroke="#d8c8ae" stroke-width="3"/>
+    <path d="M187 47v190" stroke="#c9b79b" stroke-width="3"/>
+    <path d="M57 70c33-10 65-9 96 1M57 97c34-9 66-8 96 2M57 124c31-7 63-7 94 2M57 151c27-5 54-5 81 1" fill="none" stroke="#a59a87" stroke-width="5"/>
+    <path d="M218 75c32-11 66-13 98-6M218 102c30-9 61-11 91-6M218 129c24-7 47-9 70-6" fill="none" stroke="#a59a87" stroke-width="5"/>
+    <path d="m297 154 22 20 43-50" fill="none" stroke="#8b6b45" stroke-width="7"/>
+    <path d="M321 30l43-25 18 31-43 25z" fill="#bd8e51" stroke="#ead6b4" stroke-width="3"/>
+    <path d="m321 30 18 31-5 18-13-14z" fill="#ead6b4"/>
+    <path d="M39 249c50-17 102-9 148 17 46-26 98-34 148-17" fill="none" stroke="#8b6b45" stroke-width="5" opacity=".85"/>
+  </g>
+  <g fill="#d9c8aa">
+    <circle cx="710" cy="88" r="3"/><circle cx="700" cy="250" r="2.5"/><circle cx="1120" cy="170" r="3"/>
+    <path d="M714 125h18M723 116v18" stroke="#d9c8aa" stroke-width="2"/>
+  </g>
+  <text x="78" y="145" fill="#f5f0e6" font-family="Georgia, 'Times New Roman', serif" font-size="70" letter-spacing="1">Marginlight</text>
+  <path d="M82 169h112" stroke="#bd8e51" stroke-width="4" stroke-linecap="round"/>
+  <text x="82" y="220" fill="#d8c8ae" font-family="Arial, Helvetica, sans-serif" font-size="23" letter-spacing="1.5">KEEP YOUR VOICE.</text>
+  <text x="82" y="256" fill="#d8c8ae" font-family="Arial, Helvetica, sans-serif" font-size="23" letter-spacing="1.5">FIND YOUR STORY'S SHAPE.</text>
+</svg>
