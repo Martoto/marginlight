@@ -11,7 +11,7 @@
 [![Markdown](https://img.shields.io/badge/manuscripts-Markdown-596b58?style=flat-square&logo=markdown&logoColor=white)](#recommended-manuscript-layout)
 [![Preservation first](https://img.shields.io/badge/editing-preservation--first-8b6b45?style=flat-square)](#the-marginlight-promise)
 
-**A preservation-first writing skill for shaping a novel without silently rewriting it.**
+**A structure-first writing skill that helps you avoid slop while keeping the prose in your hands.**
 
 [Install](#installation) · [How it works](#how-it-works) · [Manuscript layout](#recommended-manuscript-layout)
 
@@ -19,7 +19,7 @@
 
 ## The Marginlight promise
 
-Your manuscript stays yours. Marginlight reads existing Markdown, maps the story's structure, and points out questions worth answering. It preserves voice, imagery, dialogue, events, point of view, tense, chronology, and characterization. Substantive suggestions stay inside clearly labeled braces for you to accept, change, or ignore.
+Marginlight helps writers avoid slop. It gives clear structure feedback, checks whether character arcs resolve, and points out what could change and where. The prose and the how stay yours. It reads existing Markdown and preserves voice, imagery, dialogue, events, point of view, tense, chronology, and characterization. Substantive suggestions stay inside clearly labeled braces for you to accept, change, or ignore.
 
 ## How it works
 
